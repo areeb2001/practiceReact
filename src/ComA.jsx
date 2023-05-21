@@ -4,11 +4,6 @@ import axios from 'axios';
 const ComA = () => {
 
 
-
-
-
-
-
     //Counter Increment and decrement
     var [count, setCount] = useState(0);
     let check = 0

@@ -11,14 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
 a{
   color: #61dafb;
 }
 a.active_class{
   color: #ffffff;
-  border-bottom: 1px solid red;
-
+  border-bottom: 1px solid red; 
 }
+
 .navbar{
   width: 100%;
   line-height: 60px;
